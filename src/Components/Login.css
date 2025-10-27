@@ -1,0 +1,24 @@
+.login{
+    float: right;
+    margin-top: 3cm;
+    position:relative;
+    margin-right: 5cm;
+    z-index: 3;
+}
+.loginimage{
+    z-index:3;
+    float:left;
+    position:absolute;
+    top: 2cm;
+    left: 1cm;
+    
+}
+.loginimage img{
+    height: 80vh;
+    width: 50vw;
+}
+.c{
+    width: 1356px;
+    height: 590px;
+    background-color: coral;
+}

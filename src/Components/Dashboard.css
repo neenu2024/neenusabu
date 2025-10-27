@@ -1,0 +1,29 @@
+.dashboard{
+background-color: rgb(206, 219, 89);
+position: fixed;
+float: left;
+border-color: black;
+}
+.box{
+    display:flex;
+    flex-direction: coloumn;
+    justify-content: space-around;
+    text-align: center;
+    padding-left: 200px;
+    padding-top: 50px;
+    
+}
+.p{
+    border:solid;
+    background-color: greenyellow;
+    width:200px;
+    height:200px;
+    padding-inline: 50px;
+}
+.table{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.h1{
+    text-align: center;
+}
